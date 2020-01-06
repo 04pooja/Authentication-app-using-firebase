@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66018824788",
+    "firebase_url": "https://authenticationapp-34e7a.firebaseio.com",
+    "project_id": "authenticationapp-34e7a",
+    "storage_bucket": "authenticationapp-34e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66018824788:android:4bb6d232756d06e64dd3c1",
+        "android_client_info": {
+          "package_name": "com.example.authenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66018824788-0qrfpujeoeqo19ggkj1bosqv1cbi8bgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticationapp",
+            "certificate_hash": "333ba7b122a8086dba6185cbd99e775cdce9a85e"
+          }
+        },
+        {
+          "client_id": "66018824788-6j31jg6tho31en0pj7cv89c3tpv4hs3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GOq_m_v8bx_-c6dU5o98XU1aH7GR1S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66018824788-6j31jg6tho31en0pj7cv89c3tpv4hs3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
